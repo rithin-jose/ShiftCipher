@@ -12,7 +12,7 @@ To install python is required  which can be installed form [here](https://www.py
 
 Clone the repository using:
 
-	   git clone https://github.com/rithin-jose/shift.py.git
+	   git clone https://github.com/rithin-jose/ShiftCipher.git
    
    and run the command:
    
