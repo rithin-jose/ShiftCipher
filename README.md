@@ -26,4 +26,4 @@ Here is a quick example of the encryption and decryption steps involved with the
 > ciphertext: efgfoe uif fbtu xbmm pg uif dbtumf
    
    ## License
-   shiftcipher is licensed under [GNU Lesser General Public License v3.0](https://github.com/rithin-jose/shift.py/blob/master/LICENSE)
+   shiftcipher is licensed under [GNU Lesser General Public License v3.0](https://github.com/rithin-jose/ShiftCipher/blob/master/LICENSE)
